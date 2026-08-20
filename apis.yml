@@ -37,6 +37,9 @@ x-enrichment:
     Probed via dig + curl + WebFetch (host did not resolve). Nothing to search/derive.'
 tags:
 - Company
+- E-Commerce
+tags_raw:
+- Company
 - Ecommerce
 apis: []
 maintainers:
