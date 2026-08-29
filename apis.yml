@@ -27,6 +27,8 @@ description: 'Zarget is a company surfaced as a portfolio company of accel and a
   network as a stub for enrichment. Sector: ecommerce. This profile is a lead awaiting the enrichment
   pipeline.'
 url: https://raw.githubusercontent.com/api-evangelist/zarget/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
