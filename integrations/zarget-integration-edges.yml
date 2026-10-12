@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/zarget/integrations
+- https://n8n.io/integrations/zarget/
+- https://composio.dev/toolkits/zarget
+- https://monid.ai/tools/zarget
+checked:
+- https://composio.dev/toolkits/zarget
+- https://monid.ai/tools/zarget
+- https://n8n.io/integrations/zarget/
+- https://zapier.com/apps/zarget/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
